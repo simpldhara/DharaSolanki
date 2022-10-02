@@ -21,11 +21,11 @@
  -webkit-animation: example1 15s linear infinite;
  animation: example1 15s linear infinite;
 }
-@media only screen and (min-width: 400px) {
+
   body {
     background-image: url('images.jfif');
   }
-}
+
 /* Move it (define the animation) */
 @-moz-keyframes example1 {
  0%   { -moz-transform: translateX(100%); }
