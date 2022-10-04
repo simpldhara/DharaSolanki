@@ -24,6 +24,7 @@
 
   body {
     background-image: url('1.jpg');
+   background-repeat:no-repeat;
   }
 
 /* Move it (define the animation) */
