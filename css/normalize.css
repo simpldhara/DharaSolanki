@@ -59,8 +59,10 @@ h1 {
 h2
 {
 
-  color:#88e7a3;
+  color:hsl(246, 72%, 57%);
   text-align: center;
+  font-weight: 200;
+  font-weight: bold ;
 }
 /* Grouping content
    ========================================================================== */
@@ -94,15 +96,15 @@ pre {
  */
 
 a {
-  color: #88e7a3;
+  color: #444802;
 }
 
 h3
 {
-  color: #e6c760;
+  color: #047521;
 }
 p{
-  color:#738930;
+  color:#067d81;
   font-size: 20px;text-shadow: 0.4;
 }
 ul{
@@ -110,7 +112,7 @@ ul{
 }
 li
 {
-  color: #f69833; float: left;
+  color: #341b02; float: left;
   margin-right: 10px ;
   list-style: none; 
 }
