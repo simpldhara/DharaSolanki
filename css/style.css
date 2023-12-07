@@ -28,7 +28,9 @@
    background-attachment: fixed;
   background-size: 100% 100%;
   }
-
+  img {
+    pointer-events: none;
+}
 /* Move it (define the animation) */
 @-moz-keyframes example1 {
  0%   { -moz-transform: translateX(100%); }
